@@ -1,0 +1,73 @@
+{ estudunates: [
+
+{
+  "nc": "169234",
+  "nombre":"carolina",
+  "email":"carolina@gmail.com",
+  "edad":21
+ 
+},
+{
+  "nc": "169256",
+  "nombre":"luis",
+  "email":"luis	@gmail.com",
+  "edad":24
+
+},
+{
+  "nc": "169257",
+  "nombre":"carlos",
+  "email":"carlos@gmail.com",
+  "edad":22
+
+},
+{
+  "nc": "169246",
+  "nombre":"macario",
+  "email":"macario@gmail.com",
+  "edad":25
+},
+{
+  "nc": "159256"
+  "nombre":"juan",
+  "email":"juan@gmail.com",
+  "edad":22
+
+},
+{ 
+  "nc": "165656",
+  "nombre":"marcos",
+  "email":"marcos@gmail.com",
+  "edad":21
+
+},
+{
+  "nc": "169242",
+  "nombre":"rafael",
+  "email":"rafael@gmail.com",
+  "edad":25
+
+},
+{
+  "nc": "159243",
+  "nombre":"nestor",
+ "email":"nestor@gmail.com",
+  "edad":26
+
+},
+{
+  "nc": "159259",
+  "nombre":"raida",
+ "email":"raida@gmail.com",
+  "edad":22
+
+},
+{
+  "nc": "139253",
+  "nombre":"grisel",
+  "email":"grisel@gmail.com",
+  "edad":25
+
+},
+]
+}
